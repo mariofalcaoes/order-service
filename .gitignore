@@ -1,0 +1,45 @@
+# Compiled bytecode
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Gradle files
+.gradle/
+build/
+
+# Compiled Kotlin
+build/
+
+# Local configuration file (typically application.yml for Spring Boot)
+application-local.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Compiled Java bytecode
+/target/
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# User-specific files
+*.iml
+.gradle/
+.idea/
+build/
+out/
